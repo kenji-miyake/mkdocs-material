@@ -34,6 +34,7 @@ export type Flag =
   | "header.autohide"                  /* Hide header */
   | "navigation.expand"                /* Automatic expansion */
   | "navigation.indexes"               /* Section pages */
+  | "navigation.indexes.pagetitle"     /* Section pages (use page title) */
   | "navigation.instant"               /* Instant loading */
   | "navigation.sections"              /* Section navigation */
   | "navigation.tabs"                  /* Tabs navigation */
